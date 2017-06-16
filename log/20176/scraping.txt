@@ -1,0 +1,156 @@
+[2017-6-13 6:13:7.539] [INFO] SCRAP fmovies.io STARTED
+[2017-6-13 6:13:7.539] [INFO] movies init
+[2017-6-13 6:13:7.539] [MYSQL] INIT
+------------------------------------------------------------------------------------------------
+{"host":"localhost","user":"root","password":"","database":"fmovies"}
+------------------------------------------------------------------------------------------------
+[2017-6-13 6:13:7.539] [INFO] Sync All page 3
+[2017-6-13 6:13:7.539] [INFO] req_html_movies_all https://fmovies.io/kind/movies.html?page=3
+[2017-6-13 6:13:7.539] [DEBUG] GET: https://fmovies.io/kind/movies.html?page=3 STATUS: WAITING
+[2017-6-13 6:13:7.539] [DEBUG] GET: https://fmovies.io/kind/movies.html?page=3 STATUS: OK
+[2017-6-13 6:13:7.539] [INFO] Parse html movies
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie BEFORE
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie BEFORE
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie BEFORE
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie BEFORE
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie BEFORE
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie BEFORE
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie BEFORE
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie BEFORE
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie BEFORE
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie BEFORE
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie BEFORE
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie BEFORE
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie BEFORE
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie BEFORE
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie BEFORE
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie BEFORE
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie BEFORE
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie BEFORE
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie BEFORE
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie BEFORE
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie BEFORE
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie BEFORE
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie BEFORE
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie BEFORE
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie AFTER
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie AFTER
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie AFTER
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie AFTER
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie AFTER
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie AFTER
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie AFTER
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie AFTER
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie AFTER
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie AFTER
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie AFTER
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie AFTER
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie AFTER
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie AFTER
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie AFTER
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie AFTER
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie AFTER
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie AFTER
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie AFTER
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie AFTER
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie AFTER
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie AFTER
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie AFTER
+[2017-6-13 6:13:7.539] [INFO] html_parse_movie AFTER
+[2017-6-13 6:13:7.539] [MYSQL] Select where link
+------------------------------------------------------------------------------------------------
+{"link":"/watch/pinwheel.html","title":"Pinwheel","description":"A decade after her mother's murder, Riley Canterbury must return home, after her neglectful, carnival owner father has gone missing. She soon realizes things in this small New England town ...","image":"//cdn.fmovies.io/cover/pinwheel.png","rating":"0","country":"United States","durasi":"88 min","genre":"Horror","quality":"SD","eps":""}
+------------------------------------------------------------------------------------------------
+[2017-6-13 6:13:7.539] [MYSQL] Select where link
+------------------------------------------------------------------------------------------------
+{"link":"/watch/mindgamers.html","title":"MindGamers","description":"Students at a quantum academy attempt to create a collective consciousness, only to discover that they themselves are part of a greater experiment.","image":"//cdn.fmovies.io/cover/mindgamers.png","rating":"4","country":"United States","durasi":"97 min","genre":"Action, Sci-Fi, Thriller","quality":"SD","eps":""}
+------------------------------------------------------------------------------------------------
+[2017-6-13 6:13:7.539] [MYSQL] Select where link
+------------------------------------------------------------------------------------------------
+{"link":"/watch/dragonheart-battle-for-the-heartfire.html","title":"Dragonheart Battle for the Heartfire","description":"A dragon known as Drago tries to end the rivalry between a brother and sister, both having dragon-like powers, who are after the throne of their grandfather while a new threat steals Drago source of power.","image":"//cdn.fmovies.io/cover/dragonheart-battle-for-the-heartfire.png","rating":"0","country":"United States","durasi":"97 min","genre":"Fantasy","quality":"SD","eps":""}
+------------------------------------------------------------------------------------------------
+[2017-6-13 6:13:7.539] [MYSQL] Select where link
+------------------------------------------------------------------------------------------------
+{"link":"/watch/ufc-212.html","title":"UFC 212","description":"","image":"//cdn.fmovies.io/cover/ufc-212.png","rating":"0","country":"United States","durasi":" undefined","genre":"Sport","quality":"HDTV","eps":""}
+------------------------------------------------------------------------------------------------
+[2017-6-13 6:13:7.539] [MYSQL] Select where link
+------------------------------------------------------------------------------------------------
+{"link":"/watch/the-midnight-matinee.html","title":"The Midnight Matinee","description":"Welcome ladies and gentlemen to The Midnight Matinee. You will be entertained by five stories of deceit, deception, and of course.......horror. So enter if you dare. And sit back, relax, and enjoy the show.","image":"//cdn.fmovies.io/cover/the-midnight-matinee.png","rating":"7.1","country":"United States","durasi":"46 min","genre":"Horror, Mystery","quality":"SD","eps":""}
+------------------------------------------------------------------------------------------------
+[2017-6-13 6:13:7.539] [MYSQL] Select where link
+------------------------------------------------------------------------------------------------
+{"link":"/watch/lucid-dream.html","title":"Lucid Dream","description":"Dae-ho, an investigative journalist, seeks to track down the whereabouts of his son who was abducted three years ago. With the help of a detective and a psychiatrist friend, he will retrace...","image":"//cdn.fmovies.io/cover/lucid-dream.png","rating":"6.4","country":"Korea","durasi":"101 min","genre":"Sci-Fi, Thriller","quality":"HD 720","eps":""}
+------------------------------------------------------------------------------------------------
+[2017-6-13 6:13:7.539] [MYSQL] Select where link
+------------------------------------------------------------------------------------------------
+{"link":"/watch/a-storks-journey.html","title":"A Storks Journey","description":"Even though everybody else thinks he's a sparrow - Richard himself holds tight to the conviction that he is in fact a stork.","image":"//cdn.fmovies.io/cover/a-storks-journey.png","rating":"6.1","country":"International","durasi":"85 min","genre":"Adventure, Animation","quality":"HD 720","eps":""}
+------------------------------------------------------------------------------------------------
+[2017-6-13 6:13:7.539] [MYSQL] Select where link
+------------------------------------------------------------------------------------------------
+{"link":"/watch/all-about-the-money.html","title":"All About the Money","description":"Two \"down on their luck\" buddies are convinced by a third to take a vacation. Only after landing in the third world country do they realize that they are there to attempt to capture the ...","image":"//cdn.fmovies.io/cover/all-about-the-money.png","rating":"5.9","country":"United States","durasi":"90 min","genre":"Action, Adventure, Comedy","quality":"HD 720","eps":""}
+------------------------------------------------------------------------------------------------
+[2017-6-13 6:13:7.539] [MYSQL] Select where link
+------------------------------------------------------------------------------------------------
+{"link":"/watch/how-to-be-a-latin-lover.html","title":"How to Be a Latin Lover","description":"Finding himself dumped after 25 years of marriage, a man who made a career of seducing rich older women must move in with his estranged sister, where he begins to learn the value of family.","image":"//cdn.fmovies.io/cover/how-to-be-a-latin-lover.png","rating":"5.7","country":"United States","durasi":"115 min","genre":"Action, Comedy","quality":"HD TS","eps":""}
+------------------------------------------------------------------------------------------------
+[2017-6-13 6:13:7.539] [MYSQL] Select where link
+------------------------------------------------------------------------------------------------
+{"link":"/watch/the-laughing-man.html","title":"The Laughing Man","description":"A joker themed fan film inspired by the events in the recent batman story \"death of the family\".","image":"//cdn.fmovies.io/cover/the-laughing-man.png","rating":"7.1","country":"United States","durasi":"20 min","genre":"Thriller","quality":"SD","eps":""}
+------------------------------------------------------------------------------------------------
+[2017-6-13 6:13:7.539] [MYSQL] Select where link
+------------------------------------------------------------------------------------------------
+{"link":"/watch/george-best-all-by-himself.html","title":"George Best: All by Himself","description":"Maradona. Pelé. Best. Northern Ireland's legendary star remains one of the most naturally gifted footballers there has ever been. Famously called the 'best player in the world' by Pelé, ...","image":"//cdn.fmovies.io/cover/george-best-all-by-himself.png","rating":"7.9","country":"United Kingdom","durasi":"92 min","genre":"Documentary","quality":"HD Rip","eps":""}
+------------------------------------------------------------------------------------------------
+[2017-6-13 6:13:7.539] [MYSQL] Select where link
+------------------------------------------------------------------------------------------------
+{"link":"/watch/the-drowning.html","title":"The Drowning","description":"A psychiatrist faces his past, present and future when he finds himself involved in the treatment of a young man recently released from prison for a murder committed when the boy was just 11 years old.","image":"//cdn.fmovies.io/cover/the-drowning.png","rating":"5.7","country":"International","durasi":"95 min","genre":"Drama, Thriller","quality":"HD 720","eps":""}
+------------------------------------------------------------------------------------------------
+[2017-6-13 6:13:7.539] [MYSQL] Select where link
+------------------------------------------------------------------------------------------------
+{"link":"/watch/to-be-frank-sinatra-at-100.html","title":"To Be Frank, Sinatra at 100","description":"","image":"//cdn.fmovies.io/cover/to-be-frank-sinatra-at-100.png","rating":"6.7","country":"United Kingdom","durasi":"81 min","genre":"Biography, Documentary, History","quality":"SD","eps":""}
+------------------------------------------------------------------------------------------------
+[2017-6-13 6:13:7.539] [MYSQL] Select where link
+------------------------------------------------------------------------------------------------
+{"link":"/watch/parrot-heads.html","title":"Parrot Heads","description":"An in depth look at the world of Parrot Heads, the loyal fan base of Jimmy Buffett.","image":"//cdn.fmovies.io/cover/parrot-heads.png","rating":"6.4","country":"United States","durasi":"88 min","genre":"Documentary, Musical","quality":"SD","eps":""}
+------------------------------------------------------------------------------------------------
+[2017-6-13 6:13:7.539] [MYSQL] Select where link
+------------------------------------------------------------------------------------------------
+{"link":"/watch/patients.html","title":"Patients","description":"Patients is the story of a rebirth, a chaotic journey of victories and defeats, tears and bursts of laughter, but above all encounters: we do not heal alone.","image":"//cdn.fmovies.io/cover/patients.png","rating":"7.6","country":"United States","durasi":"110 min","genre":"Drama","quality":"HD 720","eps":""}
+------------------------------------------------------------------------------------------------
+[2017-6-13 6:13:7.539] [MYSQL] Select where link
+------------------------------------------------------------------------------------------------
+{"link":"/watch/be-afraid.html","title":"Be Afraid","description":"Not long after John Chambers and his family arrive at their new home in a small country town of Pennsylvania, John begins to experience sleep paralysis. Lying there paralyzed, trapped ..","image":"//cdn.fmovies.io/cover/be-afraid.png","rating":"5.1","country":"United States","durasi":"99 min","genre":"Crime, Horror, Thriller","quality":"HD 720","eps":""}
+------------------------------------------------------------------------------------------------
+[2017-6-13 6:13:7.539] [MYSQL] Select where link
+------------------------------------------------------------------------------------------------
+{"link":"/watch/mr-pride-vs-miss-prejudice.html","title":"Mr. Pride vs. Miss Prejudice","description":"The story revolves around Tang Nan Nan, an aspiring webtoon writer from outside the city who has an outrageous imagination. She bumps heads with Wang Zhu Hou, an insufferable fuerdai aka second generation rich who incredulously becomes her responsibility, paving the way for more laughs between the unlikely pair.","image":"//cdn.fmovies.io/cover/mr-pride-vs-miss-prejudice.png","rating":"6","country":"China","durasi":"90 min","genre":"Comedy, Drama, Romance","quality":"HD 720","eps":""}
+------------------------------------------------------------------------------------------------
+[2017-6-13 6:13:7.539] [MYSQL] Select where link
+------------------------------------------------------------------------------------------------
+{"link":"/watch/kingdom-of-gladiators-the-tournament.html","title":"Kingdom of Gladiators, the Tournament","description":"A Templar Knight is forced to fight as a gladiator where challengers from different worlds duel in a quest for a magical sword. Then the Templar learns he is scheduled to fight his master ...","image":"//cdn.fmovies.io/cover/kingdom-of-gladiators-the-tournament.png","rating":"2.8","country":"United States","durasi":" undefined","genre":"Action, Fantasy","quality":"SD","eps":""}
+------------------------------------------------------------------------------------------------
+[2017-6-13 6:13:7.539] [MYSQL] Select where link
+------------------------------------------------------------------------------------------------
+{"link":"/watch/the-mermaid-princess.html","title":"The Mermaid Princess","description":"Xuan's estate project involving reclamation of the sea threatens the livelihood of the mermaids who rely on the sea to survive. Shan is dispatched to stop Xuan and this leads them into ...","image":"//cdn.fmovies.io/cover/the-mermaid-princess.png","rating":"2.8","country":"United States","durasi":"77 min","genre":"Animation","quality":"SD","eps":""}
+------------------------------------------------------------------------------------------------
+[2017-6-13 6:13:7.539] [MYSQL] Select where link
+------------------------------------------------------------------------------------------------
+{"link":"/watch/house-of-evil.html","title":"House of Evil","description":"Couple is moving on the countryside in old mansion and the mansion has secrets...","image":"//cdn.fmovies.io/cover/house-of-evil.png","rating":"4.6","country":"International","durasi":"85 min","genre":"Action, Horror","quality":"SD","eps":""}
+------------------------------------------------------------------------------------------------
+[2017-6-13 6:13:7.539] [MYSQL] Select where link
+------------------------------------------------------------------------------------------------
+{"link":"/watch/stasis.html","title":"Stasis","description":"After a night out of partying and left behind by her friends, Ava wakes up and sneaks back home only to find that she's already safe in bed. But that's not Ava - it's someone who looks just...","image":"//cdn.fmovies.io/cover/stasis.png","rating":"0","country":"United States","durasi":"84 min","genre":"Sci-Fi","quality":"HD 720","eps":""}
+------------------------------------------------------------------------------------------------
+[2017-6-13 6:13:7.539] [MYSQL] Select where link
+------------------------------------------------------------------------------------------------
+{"link":"/watch/sarah-silverman-a-speck-of-dust.html","title":"Sarah Silverman: A Speck of Dust","description":"In her first comedy special post-health scare, Sarah Silverman shares a mix of fun facts, sad truths and yeah-she-just-went-there moments.","image":"//cdn.fmovies.io/cover/sarah-silverman-a-speck-of-dust.png","rating":"6.3","country":"United States","durasi":"71 min","genre":"Comedy","quality":"HD Rip","eps":""}
+------------------------------------------------------------------------------------------------
+[2017-6-13 6:13:7.539] [MYSQL] Select where link
+------------------------------------------------------------------------------------------------
+{"link":"/watch/when-two-worlds-collide.html","title":"When Two Worlds Collide","description":"An indigenous environmental activist takes on the large businesses that are destroying the Amazon.","image":"//cdn.fmovies.io/cover/when-two-worlds-collide.png","rating":"7.8","country":"United States","durasi":"103 min","genre":"Documentary","quality":"SD","eps":""}
+------------------------------------------------------------------------------------------------
+[2017-6-13 6:13:7.539] [MYSQL] Select where link
+------------------------------------------------------------------------------------------------
+{"link":"/watch/the-exception.html","title":"The Exception","description":"A German soldier tries to determine if the Dutch resistance has planted a spy to infiltrate the home of Kaiser Wilhelm in Holland during the onset of World War I, but falls for a young Jewish Dutch woman during his investigation.","image":"//cdn.fmovies.io/cover/the-exception.png","rating":"6.5","country":"United States","durasi":"107 min","genre":"Drama","quality":"HD","eps":""}
+------------------------------------------------------------------------------------------------
+[2017-6-13 6:13:7.539] [MYSQL] error query: Error: ER_ACCESS_DENIED_ERROR: Access denied for user 'root'@'localhost' (using password: YES)
