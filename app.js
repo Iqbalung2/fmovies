@@ -5,7 +5,7 @@ var cloudscraper = require('cloudscraper'),
 	log = require('./module/log');
 
 var config = {
-	'host': 'https://fmovies.io/',
+	'host': 'https://fmovies.io/latest/movies.html',
 	'movies': '',
 	mysql: {
 		host: 'localhost',
@@ -33,7 +33,7 @@ log.write('INFO', 'SCRAP fmovies.io STARTED')
 movies.init(config);
 
 next = true;
-page = 3;
+page = 11;
 
 async.whilst(function() {
 		return next == true;

@@ -15,18 +15,14 @@ exports.write = function(flag, text, data) {
 	if (!fs.existsSync(dir)) {
 		fs.mkdirSync(dir);
 	}
-
 	const fd = fs.openSync(dir + date, 'a+');
-
 	text = `[${year}-${month}-${date} ${hours}:${minutes}:${second}.${mili_second}] [${flag}] `+text + "\n";
-
 	if(typeof data != 'null' && typeof data != 'undefined')
 	{
 		text += "------------------------------------------------------------------------------------------------\n";
 		text += JSON.stringify(data);
 		text += "\n------------------------------------------------------------------------------------------------\n";
 	}
-
 	fs.writeSync(fd, text, null, 'utf8');
 	fs.closeSync(fd)
 }
