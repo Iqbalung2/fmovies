@@ -17,6 +17,8 @@ var config = {
 
 var mysql = require('mysql');
 
+//set koneksi 
+
 var con = mysql.createConnection({
   host: "localhost",
   user: "root",
@@ -33,6 +35,9 @@ log.write('INFO', 'SCRAP fmovies.io STARTED')
 movies.init(config);
 
 next = true;
+
+// set page yang akan di crawl 
+
 page = 11;
 
 async.whilst(function() {
